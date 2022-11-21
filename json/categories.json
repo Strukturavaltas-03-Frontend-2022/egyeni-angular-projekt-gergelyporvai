@@ -1,0 +1,14 @@
+{
+  "categories": [
+    {
+      "catId": 1,
+      "catName": "Family",
+      "catDescription": "Recommended for families"
+    },
+    {
+      "catId": 0,
+      "catName": "Solo",
+      "catDescription": "Recommended for solo travelers"
+    }
+  ]
+}
