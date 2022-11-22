@@ -1,6 +1,8 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { RouterModule, ROUTES, Routes } from '@angular/router';
+import { FormsModule } from '@angular/forms';
+import { HttpClient, HttpClientModule } from '@angular/common/http';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -12,6 +14,7 @@ import { AdminComponent } from './page/admin/admin.component';
 import { CardComponent } from './common/card/card.component';
 import { FilterPipe } from './pipe/filter.pipe';
 import { CategoryFilterPipe } from './pipe/category-filter.pipe';
+import { NewComponent } from './page/new/new.component';
 
 @NgModule({
   declarations: [
@@ -24,8 +27,15 @@ import { CategoryFilterPipe } from './pipe/category-filter.pipe';
     CardComponent,
     FilterPipe,
     CategoryFilterPipe,
+    NewComponent,
   ],
-  imports: [BrowserModule, AppRoutingModule, RouterModule],
+  imports: [
+    BrowserModule,
+    AppRoutingModule,
+    RouterModule,
+    FormsModule,
+    HttpClientModule,
+  ],
   providers: [],
   bootstrap: [AppComponent],
 })
