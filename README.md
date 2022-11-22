@@ -1,6 +1,31 @@
-# Img source: 'https://www.travelcharacter.com/top-50-travel-destination-in-the-world/'
+## Travel Agency "Mini" dokumentáció:
 
-# ToDo: Aria
+## Leírás:
+
+Az oldal egy utazási iroda elérhető utazásait jeleníti meg
+
+## Alkalmazás elindítás:
+
+Az alkalmazást az 'npm start' parancs kiadásával lehet elindítani
+
+## Adatbázis (backend) indítása:
+
+Az adatbázist a 'json-server --watch json/trips.json' parancs kiadásával lehet elindítani
+
+## Felhasznált sablonok:
+
+- milyen sablont, frameworköt, UI library-t használtál
+
+## Img source:
+
+'https://www.travelcharacter.com/top-50-travel-destination-in-the-world/'
+'https://www.busytourist.com/best-vacation-spots-and-places-to-visit/'
+
+## ----------------------------------------------------------------
+
+## ToDo:
+
+Aria
 
 # TravelAgency
 

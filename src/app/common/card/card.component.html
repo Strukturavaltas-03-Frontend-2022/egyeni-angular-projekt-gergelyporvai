@@ -1,1 +1,36 @@
-<p>card works!</p>
+<!-- export class Trip {
+  [x: string]: any;
+  id: number = 0;
+  categoryId: number = 0;
+  destination: string = '';
+  destinationImg: string = '';
+  duration: string = '';
+  price: number = 0;
+  active: boolean = false;
+} -->
+
+<div class="col mb-4">
+  <div class="card h-100">
+    <img
+      src="{{ trip.destinationImg }}"
+      class="card-img-top"
+      alt="Picture not found"
+    />
+    <div class="card-body">
+      <h5 class="card-title">{{ trip.destination }}</h5>
+      <!-- <p class="card-text">
+        category
+        {{ movie.description }}
+      </p> -->
+      <!-- <p class="card-text">
+        {{ movie.description }}
+      </p> -->
+      <div class="">
+        <h6>Duration</h6>
+        <p>{{ trip.duration }}</p>
+        <h6>Price</h6>
+        <p>{{ trip.price }}</p>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,18 +1,18 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { SoloComponent } from './solo.component';
+import { DataEditorComponent } from './data-editor.component';
 
-describe('SoloComponent', () => {
-  let component: SoloComponent;
-  let fixture: ComponentFixture<SoloComponent>;
+describe('DataEditorComponent', () => {
+  let component: DataEditorComponent;
+  let fixture: ComponentFixture<DataEditorComponent>;
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ SoloComponent ]
+      declarations: [ DataEditorComponent ]
     })
     .compileComponents();
 
-    fixture = TestBed.createComponent(SoloComponent);
+    fixture = TestBed.createComponent(DataEditorComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

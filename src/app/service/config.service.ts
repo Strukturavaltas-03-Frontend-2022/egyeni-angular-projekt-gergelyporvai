@@ -12,9 +12,7 @@ export interface IMenuItem {
 export class ConfigService {
   menuItems: IMenuItem[] = [
     { text: 'Home', link: '/', icon: 'home' },
-    { text: 'Family', link: '/family' },
-    { text: 'Solo', link: '/solo' },
-    { text: 'Admin', link: '/admin' },
+    { text: 'Trips', link: '/trips' },
   ];
 
   constructor() {}
