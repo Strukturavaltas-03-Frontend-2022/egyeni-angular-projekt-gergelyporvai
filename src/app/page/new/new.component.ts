@@ -19,7 +19,7 @@ export class NewComponent implements OnInit {
   enterNew(trip: Trip): void {
     this.tripService
       .create(trip)
-      .subscribe((trip) => this.router.navigate(['/', 'admin']));
+      .subscribe((trip) => this.router.navigate(['/', 'trips']));
   }
 
   ngOnInit(): void {}

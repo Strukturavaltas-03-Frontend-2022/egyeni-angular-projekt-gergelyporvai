@@ -14,7 +14,8 @@
     <img
       src="{{ trip.destinationImg }}"
       class="card-img-top"
-      alt="Picture not found"
+      alt="Picture not
+    found"
     />
     <div class="card-body">
       <h5 class="card-title">{{ trip.destination }}</h5>
@@ -31,6 +32,12 @@
         <h6>Price</h6>
         <p>{{ trip.price }}</p>
       </div>
+      <button (click)="onDelete(trip)" class="btn btn-danger">
+        <i class="fa fa-trash" aria-hidden="true"></i>
+      </button>
+      <button [routerLink]="['/trip/edit', trip.id]" class="btn btn-info">
+        <i class="fa fa-pencil" aria-hidden="true"></i>
+      </button>
     </div>
   </div>
 </div>

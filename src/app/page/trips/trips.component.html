@@ -1,1 +1,30 @@
-<p>trips works!</p>
+<div class="row">
+  <div class="btn-group">
+    <button [routerLink]="['/new']" class="btn btn-success">
+      <i class="fa fa-plus" aria-hidden="true"></i>
+    </button>
+  </div>
+
+  <div class="row mt-3">
+    <div class="col-12">
+      <div class="input-group mb-3">
+        <input
+          [(ngModel)]="searchPhrase"
+          type="text"
+          class="form-control"
+          placeholder="Enter search phrase for destination"
+          aria-label="Enter search phrase for destination"
+        />
+      </div>
+    </div>
+  </div>
+
+  <div class="row row-cols-1 row-cols-md-5">
+    <app-card
+      *ngFor="
+        let trip of tripList$ | async | filter: searchPhrase:'destination'
+      "
+      [trip]="trip"
+    ></app-card>
+  </div>
+</div>

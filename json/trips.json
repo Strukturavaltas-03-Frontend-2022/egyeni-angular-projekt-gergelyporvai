@@ -4,7 +4,7 @@
       "id": 3,
       "categoryId": 1,
       "destination": "IR",
-      "destinationImg": "../src/assets/img/arashiyama-bamboo-grove-japan.png",
+      "destinationImg": "./assets/img/alimatha-island-maldives.png",
       "duration": "Crab, red lava",
       "price": 400000,
       "active": false
@@ -13,7 +13,7 @@
       "id": 4,
       "categoryId": 1,
       "destination": "RU",
-      "destinationImg": "../src/assets/img/avenue-of-the-baobabs-madagascar.png",
+      "destinationImg": "./assets/img/avenue-of-the-baobabs-madagascar.png",
       "duration": "Whale, southern right",
       "price": 350000,
       "active": false
@@ -22,107 +22,17 @@
       "id": 5,
       "categoryId": 2,
       "destination": "CN",
-      "destinationImg": "../src/assets/img/bali-indonesia.png",
+      "destinationImg": "./assets/img/bali-indonesia.png",
       "duration": "Vicuna new",
       "price": 250000,
-      "active": true
-    },
-    {
-      "id": 6,
-      "categoryId": 1,
-      "destination": "AR",
-      "destinationImg": "../src/assets/img/bangkok-thailand.png",
-      "duration": "Brazilian otter",
-      "price": 350000,
-      "active": false
-    },
-    {
-      "id": 7,
-      "categoryId": 2,
-      "destination": "EC",
-      "destinationImg": "../src/assets/img/belle-mere-mauritius.png",
-      "duration": "Field flicker",
-      "price": 900000,
-      "active": true
-    },
-    {
-      "id": 8,
-      "categoryId": 1,
-      "destination": "US",
-      "destinationImg": "../src/assets/img/blue-lagoon-iceland.png",
-      "duration": "Bird, secretary",
-      "price": 800000,
-      "active": true
-    },
-    {
-      "id": 9,
-      "categoryId": 1,
-      "destination": "HT",
-      "destinationImg": "../src/assets/img/blue-lake-luzern-switzerland.png",
-      "duration": "Striped dolphin",
-      "price": 850000,
-      "active": false
-    },
-    {
-      "id": 10,
-      "categoryId": 2,
-      "destination": "CN",
-      "destinationImg": "../src/assets/img/bologna-italy.png",
-      "duration": "Desert kangaroo rat",
-      "price": 600000,
-      "active": true
-    },
-    {
-      "id": 11,
-      "categoryId": 1,
-      "destination": "CN",
-      "destinationImg": "../src/assets/img/bora-bora-island-french-polynesia.png",
-      "duration": "Red kangaroo",
-      "price": 550000,
-      "active": false
-    },
-    {
-      "id": 12,
-      "categoryId": 2,
-      "destination": "AR",
-      "destinationImg": "../src/assets/img/boracay-philippines.png",
-      "duration": "Blue waxbill",
-      "price": 750000,
-      "active": false
-    },
-    {
-      "id": 13,
-      "categoryId": 1,
-      "destination": "ID",
-      "destinationImg": "../src/assets/img/budapest-hungary.png",
-      "duration": "Elegant crested tinamou",
-      "price": 400000,
-      "active": true
-    },
-    {
-      "id": 14,
-      "categoryId": 2,
-      "destination": "PT",
-      "destinationImg": "../src/assets/img/cappadocia-turkey.png",
-      "duration": "Yellow-brown sungazer",
-      "price": 700000,
-      "active": false
-    },
-    {
-      "id": 15,
-      "categoryId": 1,
-      "destination": "CN",
-      "destinationImg": "../src/assets/img/cinque-terre-italy.png",
-      "duration": "Green vine snake",
-      "price": 700000,
       "active": true
     },
     {
       "id": 16,
       "categoryId": 1,
       "destination": "KZ",
-      "destinationImg": "../src/assets/img/cliffs-of-moher-ireland.png",
-      "duration": "Skink, blue-tongued",
+      "destinationImg": "./assets/img/cliffs-of-moher-ireland.png",
+      "duration": "Skink, blue-tongued frog 2",
       "price": 900000,
       "active": false
     },
@@ -130,7 +40,7 @@
       "id": 17,
       "categoryId": 1,
       "destination": "PH",
-      "destinationImg": "../src/assets/img/colosseum-in-rome-italy.png",
+      "destinationImg": "./assets/img/colosseum-in-rome-italy.png",
       "duration": "Kaffir cat",
       "price": 550000,
       "active": false
@@ -139,7 +49,7 @@
       "id": 18,
       "categoryId": 1,
       "destination": "ID",
-      "destinationImg": "../src/assets/img/darvaza-gas-crater-turkmenistan.png",
+      "destinationImg": "./assets/img/darvaza-gas-crater-turkmenistan.png",
       "duration": "Chilean flamingo",
       "price": 800000,
       "active": true
@@ -148,7 +58,7 @@
       "id": 19,
       "categoryId": 2,
       "destination": "PF",
-      "destinationImg": "../src/assets/img/dubai-united-arab-emirates.png",
+      "destinationImg": "./assets/img/dubai-united-arab-emirates.png",
       "duration": "Canada goose",
       "price": 500000,
       "active": false
@@ -157,25 +67,16 @@
       "id": 20,
       "categoryId": 2,
       "destination": "BF",
-      "destinationImg": "../src/assets/img/geiranger-fjord-norway.png",
+      "destinationImg": "./assets/img/geiranger-fjord-norway.png",
       "duration": "Southern black-backed gull",
       "price": 950000,
       "active": false
     },
     {
-      "id": 21,
-      "categoryId": 1,
-      "destination": "CN",
-      "destinationImg": "../src/assets/img/giza-egypt.png",
-      "duration": "Buffalo, wild water",
-      "price": 900000,
-      "active": true
-    },
-    {
       "id": 22,
       "categoryId": 2,
       "destination": "BR",
-      "destinationImg": "../src/assets/img/grand-canyon-united-states.png",
+      "destinationImg": "./assets/img/grand-canyon-united-states.png",
       "duration": "Cottonmouth",
       "price": 300000,
       "active": true
@@ -184,7 +85,7 @@
       "id": 23,
       "categoryId": 2,
       "destination": "ZW",
-      "destinationImg": "../src/assets/img/great-reef-barrier-australia.png",
+      "destinationImg": "./assets/img/great-reef-barrier-australia.png",
       "duration": "White spoonbill",
       "price": 550000,
       "active": true
@@ -193,7 +94,7 @@
       "id": 24,
       "categoryId": 1,
       "destination": "SV",
-      "destinationImg": "../src/assets/img/guanajuato-mexico.png",
+      "destinationImg": "./assets/img/guanajuato-mexico.png",
       "duration": "Heron, gray",
       "price": 500000,
       "active": false
@@ -202,7 +103,7 @@
       "id": 25,
       "categoryId": 1,
       "destination": "KZ",
-      "destinationImg": "../src/assets/img/guilin-china.png",
+      "destinationImg": "./assets/img/guilin-china.png",
       "duration": "Savanna baboon",
       "price": 800000,
       "active": true
@@ -211,7 +112,7 @@
       "id": 26,
       "categoryId": 2,
       "destination": "CN",
-      "destinationImg": "../src/assets/img/hallerbost-belgium.png",
+      "destinationImg": "./assets/img/hallerbost-belgium.png",
       "duration": "Black rhinoceros",
       "price": 700000,
       "active": false
@@ -220,25 +121,16 @@
       "id": 27,
       "categoryId": 1,
       "destination": "BR",
-      "destinationImg": "../src/assets/img/hoh-rainforest-united-states.png",
+      "destinationImg": "./assets/img/hoh-rainforest-united-states.png",
       "duration": "Gull, lava",
       "price": 250000,
       "active": true
     },
     {
-      "id": 28,
-      "categoryId": 2,
-      "destination": "PE",
-      "destinationImg": "../src/assets/img/istanbul-turkey.png",
-      "duration": "American black bear",
-      "price": 350000,
-      "active": false
-    },
-    {
       "id": 29,
       "categoryId": 2,
       "destination": "JO",
-      "destinationImg": "../src/assets/img/karijini-national-park-australia.png",
+      "destinationImg": "./assets/img/karijini-national-park-australia.png",
       "duration": "Greater adjutant stork",
       "price": 350000,
       "active": false
@@ -247,7 +139,7 @@
       "id": 30,
       "categoryId": 2,
       "destination": "ID",
-      "destinationImg": "../src/assets/img/keukenhof-park-netherlands.png",
+      "destinationImg": "./assets/img/keukenhof-park-netherlands.png",
       "duration": "Eagle, golden",
       "price": 700000,
       "active": true
@@ -256,7 +148,7 @@
       "id": 31,
       "categoryId": 2,
       "destination": "UG",
-      "destinationImg": "../src/assets/img/kuala-lumpur-malaysia.png",
+      "destinationImg": "./assets/img/kuala-lumpur-malaysia.png",
       "duration": "Bee-eater, nubian",
       "price": 800000,
       "active": true
@@ -265,7 +157,7 @@
       "id": 32,
       "categoryId": 1,
       "destination": "US",
-      "destinationImg": "../src/assets/img/kuang-si-falls-laos.png",
+      "destinationImg": "./assets/img/kuang-si-falls-laos.png",
       "duration": "European badger",
       "price": 800000,
       "active": false
@@ -274,7 +166,7 @@
       "id": 33,
       "categoryId": 2,
       "destination": "CN",
-      "destinationImg": "../src/assets/img/lake-bled-slovenia.png",
+      "destinationImg": "./assets/img/lake-bled-slovenia.png",
       "duration": "Elegant crested tinamou",
       "price": 450000,
       "active": true
@@ -283,7 +175,7 @@
       "id": 34,
       "categoryId": 1,
       "destination": "RU",
-      "destinationImg": "../src/assets/img/lofoten-islands-norway.png",
+      "destinationImg": "./assets/img/lofoten-islands-norway.png",
       "duration": "Penguin, fairy",
       "price": 550000,
       "active": false
@@ -292,7 +184,7 @@
       "id": 35,
       "categoryId": 1,
       "destination": "NO",
-      "destinationImg": "../src/assets/img/london-united-kingdom.png",
+      "destinationImg": "./assets/img/london-united-kingdom.png",
       "duration": "Booby, blue-faced",
       "price": 500000,
       "active": true
@@ -301,7 +193,7 @@
       "id": 36,
       "categoryId": 2,
       "destination": "CN",
-      "destinationImg": "../src/assets/img/luberon-france.png",
+      "destinationImg": "./assets/img/luberon-france.png",
       "duration": "Antelope, four-horned",
       "price": 700000,
       "active": true
@@ -310,7 +202,7 @@
       "id": 37,
       "categoryId": 2,
       "destination": "ID",
-      "destinationImg": "../src/assets/img/machu-picchu-peru.png",
+      "destinationImg": "./assets/img/machu-picchu-peru.png",
       "duration": "Mule deer",
       "price": 500000,
       "active": false
@@ -319,7 +211,7 @@
       "id": 38,
       "categoryId": 2,
       "destination": "CN",
-      "destinationImg": "../src/assets/img/madrid-spain.png",
+      "destinationImg": "./assets/img/madrid-spain.png",
       "duration": "Capuchin, weeper",
       "price": 550000,
       "active": true
@@ -328,7 +220,7 @@
       "id": 39,
       "categoryId": 1,
       "destination": "FR",
-      "destinationImg": "../src/assets/img/manali-india.png",
+      "destinationImg": "./assets/img/manali-india.png",
       "duration": "Duck, white-faced whistling",
       "price": 600000,
       "active": false
@@ -337,7 +229,7 @@
       "id": 40,
       "categoryId": 1,
       "destination": "ID",
-      "destinationImg": "../src/assets/img/marble-caves-chile.png",
+      "destinationImg": "./assets/img/marble-caves-chile.png",
       "duration": "Grison",
       "price": 500000,
       "active": true
@@ -346,7 +238,7 @@
       "id": 41,
       "categoryId": 1,
       "destination": "SE",
-      "destinationImg": "../src/assets/img/marina-bay-sands-singapore.png",
+      "destinationImg": "./assets/img/marina-bay-sands-singapore.png",
       "duration": "Capuchin, weeper",
       "price": 800000,
       "active": false
@@ -355,7 +247,7 @@
       "id": 42,
       "categoryId": 1,
       "destination": "UA",
-      "destinationImg": "../src/assets/img/milford-sound-new-zealand.png",
+      "destinationImg": "./assets/img/milford-sound-new-zealand.png",
       "duration": "Gulls (unidentified)",
       "price": 550000,
       "active": true
@@ -364,7 +256,7 @@
       "id": 43,
       "categoryId": 1,
       "destination": "TH",
-      "destinationImg": "../src/assets/img/moraine-lake-canada.png",
+      "destinationImg": "./assets/img/moraine-lake-canada.png",
       "duration": "Common seal",
       "price": 850000,
       "active": false
@@ -373,7 +265,7 @@
       "id": 44,
       "categoryId": 1,
       "destination": "NO",
-      "destinationImg": "../src/assets/img/moravian-fields-czech-republic.png",
+      "destinationImg": "./assets/img/moravian-fields-czech-republic.png",
       "duration": "Sifaka, verreaux's",
       "price": 700000,
       "active": false
@@ -382,7 +274,7 @@
       "id": 45,
       "categoryId": 1,
       "destination": "RU",
-      "destinationImg": "../src/assets/img",
+      "destinationImg": "./assets/img",
       "duration": "Hornbill, leadbeateri's ground",
       "price": 300000,
       "active": true
@@ -391,7 +283,7 @@
       "id": 46,
       "categoryId": 2,
       "destination": "CN",
-      "destinationImg": "../src/assets/img/mount-fuji-japan.png",
+      "destinationImg": "./assets/img/mount-fuji-japan.png",
       "duration": "American black bear",
       "price": 350000,
       "active": false
@@ -400,7 +292,7 @@
       "id": 47,
       "categoryId": 1,
       "destination": "PH",
-      "destinationImg": "../src/assets/img/mount-kilimanjaro-tanzania.png",
+      "destinationImg": "./assets/img/mount-kilimanjaro-tanzania.png",
       "duration": "Steenbok",
       "price": 350000,
       "active": true
@@ -409,7 +301,7 @@
       "id": 48,
       "categoryId": 1,
       "destination": "CN",
-      "destinationImg": "../src/assets/img/neelum-valley-pakistan.png",
+      "destinationImg": "./assets/img/neelum-valley-pakistan.png",
       "duration": "White-eye, cape",
       "price": 300000,
       "active": true
@@ -418,7 +310,7 @@
       "id": 49,
       "categoryId": 1,
       "destination": "PL",
-      "destinationImg": "../src/assets/img/neuschwanstein-castle-germany.png",
+      "destinationImg": "./assets/img/neuschwanstein-castle-germany.png",
       "duration": "Goose, cape barren",
       "price": 850000,
       "active": false
@@ -427,7 +319,7 @@
       "id": 50,
       "categoryId": 2,
       "destination": "BY",
-      "destinationImg": "../src/assets/img/new-york-united-states.png",
+      "destinationImg": "./assets/img/new-york-united-states.png",
       "duration": "Red-tailed cockatoo",
       "price": 250000,
       "active": true
@@ -436,7 +328,7 @@
       "id": 51,
       "categoryId": 1,
       "destination": "US",
-      "destinationImg": "../src/assets/img/niagara-falls-united-states.png",
+      "destinationImg": "./assets/img/niagara-falls-united-states.png",
       "duration": "Springhare",
       "price": 900000,
       "active": false
@@ -445,7 +337,7 @@
       "id": 52,
       "categoryId": 1,
       "destination": "PL",
-      "destinationImg": "../src/assets/img/northern-lake-baikal-russia.png",
+      "destinationImg": "./assets/img/northern-lake-baikal-russia.png",
       "duration": "Egyptian goose",
       "price": 250000,
       "active": true
@@ -454,7 +346,7 @@
       "id": 53,
       "categoryId": 2,
       "destination": "TH",
-      "destinationImg": "../src/assets/img/okavango-delta-botswana.png",
+      "destinationImg": "./assets/img/okavango-delta-botswana.png",
       "duration": "Spurfowl, yellow-necked",
       "price": 700000,
       "active": false
@@ -463,7 +355,7 @@
       "id": 54,
       "categoryId": 2,
       "destination": "ID",
-      "destinationImg": "../src/assets/img/paris-france.png",
+      "destinationImg": "./assets/img/paris-france.png",
       "duration": "Javanese cormorant",
       "price": 900000,
       "active": false
@@ -472,7 +364,7 @@
       "id": 55,
       "categoryId": 2,
       "destination": "CN",
-      "destinationImg": "../src/assets/img/petra-jordan.png",
+      "destinationImg": "./assets/img/petra-jordan.png",
       "duration": "Secretary bird",
       "price": 800000,
       "active": false
@@ -481,7 +373,7 @@
       "id": 56,
       "categoryId": 1,
       "destination": "RU",
-      "destinationImg": "../src/assets/img/phuket-thailand.png",
+      "destinationImg": "./assets/img/phuket-thailand.png",
       "duration": "Puna ibis",
       "price": 750000,
       "active": true
@@ -490,7 +382,7 @@
       "id": 57,
       "categoryId": 2,
       "destination": "MA",
-      "destinationImg": "../src/assets/img/plitvice-lakes-croatia.png",
+      "destinationImg": "./assets/img/plitvice-lakes-croatia.png",
       "duration": "Warthog",
       "price": 700000,
       "active": true
@@ -499,7 +391,7 @@
       "id": 58,
       "categoryId": 1,
       "destination": "CL",
-      "destinationImg": "../src/assets/img/queenstown-new-zealand.png",
+      "destinationImg": "./assets/img/queenstown-new-zealand.png",
       "duration": "Marabou stork",
       "price": 750000,
       "active": false
@@ -508,7 +400,7 @@
       "id": 59,
       "categoryId": 1,
       "destination": "BR",
-      "destinationImg": "../src/assets/img/raja-ampat-islands-indonesia.png",
+      "destinationImg": "./assets/img/raja-ampat-islands-indonesia.png",
       "duration": "Cape fox",
       "price": 300000,
       "active": true
@@ -517,7 +409,7 @@
       "id": 60,
       "categoryId": 1,
       "destination": "HT",
-      "destinationImg": "../src/assets/img/rome-italy.png",
+      "destinationImg": "./assets/img/rome-italy.png",
       "duration": "Porcupine, north american",
       "price": 450000,
       "active": true
@@ -526,7 +418,7 @@
       "id": 61,
       "categoryId": 2,
       "destination": "MK",
-      "destinationImg": "../src/assets/img/rothenburg-germany.png",
+      "destinationImg": "./assets/img/rothenburg-germany.png",
       "duration": "Francolin, swainson's",
       "price": 500000,
       "active": true
@@ -535,7 +427,7 @@
       "id": 62,
       "categoryId": 1,
       "destination": "AL",
-      "destinationImg": "../src/assets/img/rovaniemi-lapland-finland.png",
+      "destinationImg": "./assets/img/rovaniemi-lapland-finland.png",
       "duration": "Great skua",
       "price": 800000,
       "active": false
@@ -544,7 +436,7 @@
       "id": 63,
       "categoryId": 1,
       "destination": "PL",
-      "destinationImg": "../src/assets/img/salar-de-uyuni-bolivia.png",
+      "destinationImg": "./assets/img/salar-de-uyuni-bolivia.png",
       "duration": "Wolf, common",
       "price": 900000,
       "active": true
@@ -553,7 +445,7 @@
       "id": 64,
       "categoryId": 2,
       "destination": "CN",
-      "destinationImg": "../src/assets/img/san-francisco-united-states.png",
+      "destinationImg": "./assets/img/san-francisco-united-states.png",
       "duration": "Python, carpet",
       "price": 800000,
       "active": false
@@ -562,7 +454,7 @@
       "id": 65,
       "categoryId": 1,
       "destination": "CU",
-      "destinationImg": "../src/assets/img/santorini-greece.png",
+      "destinationImg": "./assets/img/santorini-greece.png",
       "duration": "White-necked raven",
       "price": 700000,
       "active": true
@@ -571,7 +463,7 @@
       "id": 66,
       "categoryId": 2,
       "destination": "AR",
-      "destinationImg": "../src/assets/img/socotra-yemen.png",
+      "destinationImg": "./assets/img/socotra-yemen.png",
       "duration": "Penguin, fairy",
       "price": 250000,
       "active": false
@@ -580,7 +472,7 @@
       "id": 67,
       "categoryId": 2,
       "destination": "KP",
-      "destinationImg": "../src/assets/img/sossusvlei-namibia.png",
+      "destinationImg": "./assets/img/sossusvlei-namibia.png",
       "duration": "Gerbil (unidentified)",
       "price": 400000,
       "active": false
@@ -589,7 +481,7 @@
       "id": 68,
       "categoryId": 2,
       "destination": "CN",
-      "destinationImg": "../src/assets/img/southern-alps-new-zealand.png",
+      "destinationImg": "./assets/img/southern-alps-new-zealand.png",
       "duration": "Meerkat, red",
       "price": 450000,
       "active": true
@@ -598,7 +490,7 @@
       "id": 69,
       "categoryId": 1,
       "destination": "TH",
-      "destinationImg": "../src/assets/img/srinagar-india.png",
+      "destinationImg": "./assets/img/srinagar-india.png",
       "duration": "Crab, sally lightfoot",
       "price": 250000,
       "active": false
@@ -607,7 +499,7 @@
       "id": 70,
       "categoryId": 2,
       "destination": "ID",
-      "destinationImg": "../src/assets/img/stonehenge-england.png",
+      "destinationImg": "./assets/img/stonehenge-england.png",
       "duration": "Common zebra",
       "price": 500000,
       "active": true
@@ -616,7 +508,7 @@
       "id": 71,
       "categoryId": 2,
       "destination": "CO",
-      "destinationImg": "../src/assets/img/sydney-australia.png",
+      "destinationImg": "./assets/img/sydney-australia.png",
       "duration": "Cormorant, javanese",
       "price": 700000,
       "active": false
@@ -625,7 +517,7 @@
       "id": 72,
       "categoryId": 1,
       "destination": "UA",
-      "destinationImg": "../src/assets/img/taj-mahal-india.png",
+      "destinationImg": "./assets/img/taj-mahal-india.png",
       "duration": "White-throated kingfisher",
       "price": 500000,
       "active": true
@@ -634,7 +526,7 @@
       "id": 73,
       "categoryId": 2,
       "destination": "PL",
-      "destinationImg": "../src/assets/img/the-great-blue-hole-belize.png",
+      "destinationImg": "./assets/img/the-great-blue-hole-belize.png",
       "duration": "Stick insect",
       "price": 600000,
       "active": false
@@ -643,7 +535,7 @@
       "id": 74,
       "categoryId": 1,
       "destination": "MX",
-      "destinationImg": "../src/assets/img/the-great-wall-of-china-china.png",
+      "destinationImg": "./assets/img/the-great-wall-of-china-china.png",
       "duration": "Sportive lemur",
       "price": 250000,
       "active": false
@@ -652,7 +544,7 @@
       "id": 75,
       "categoryId": 1,
       "destination": "CN",
-      "destinationImg": "../src/assets/img/the-pitons-st.-lucia.png",
+      "destinationImg": "./assets/img/the-pitons-st.-lucia.png",
       "duration": "Falcon, prairie",
       "price": 900000,
       "active": true
@@ -661,7 +553,7 @@
       "id": 76,
       "categoryId": 1,
       "destination": "AR",
-      "destinationImg": "../src/assets/img/tikal-guatemala.png",
+      "destinationImg": "./assets/img/tikal-guatemala.png",
       "duration": "Flying fox (unidentified)",
       "price": 700000,
       "active": true
@@ -670,7 +562,7 @@
       "id": 77,
       "categoryId": 1,
       "destination": "GR",
-      "destinationImg": "../src/assets/img/torres-del-paine-chile.png",
+      "destinationImg": "./assets/img/torres-del-paine-chile.png",
       "duration": "Cat, long-tailed spotted",
       "price": 850000,
       "active": false
@@ -679,7 +571,7 @@
       "id": 78,
       "categoryId": 2,
       "destination": "TH",
-      "destinationImg": "../src/assets/img/uttarakhand-india.png",
+      "destinationImg": "./assets/img/uttarakhand-india.png",
       "duration": "Black-capped chickadee",
       "price": 600000,
       "active": false
@@ -688,7 +580,7 @@
       "id": 79,
       "categoryId": 2,
       "destination": "CN",
-      "destinationImg": "../src/assets/img/vatnajokull-ice-caves-iceland.png",
+      "destinationImg": "./assets/img/vatnajokull-ice-caves-iceland.png",
       "duration": "Roadrunner, greater",
       "price": 700000,
       "active": false
@@ -697,7 +589,7 @@
       "id": 80,
       "categoryId": 1,
       "destination": "CN",
-      "destinationImg": "../src/assets/img/verona-italy.png",
+      "destinationImg": "./assets/img/verona-italy.png",
       "duration": "Badger, honey",
       "price": 600000,
       "active": true
@@ -706,7 +598,7 @@
       "id": 81,
       "categoryId": 1,
       "destination": "CN",
-      "destinationImg": "../src/assets/img/victoria-falls-zimbabwe.png",
+      "destinationImg": "./assets/img/victoria-falls-zimbabwe.png",
       "duration": "Badger, honey",
       "price": 550000,
       "active": true
@@ -715,7 +607,7 @@
       "id": 82,
       "categoryId": 2,
       "destination": "CN",
-      "destinationImg": "../src/assets/img/waiheke-island-new-zealand.png",
+      "destinationImg": "./assets/img/waiheke-island-new-zealand.png",
       "duration": "Badger, honey",
       "price": 250000,
       "active": false
@@ -724,7 +616,7 @@
       "id": 83,
       "categoryId": 2,
       "destination": "CN",
-      "destinationImg": "../src/assets/img/zhangye-danxia-china.png",
+      "destinationImg": "./assets/img/zhangye-danxia-china.png",
       "duration": "Badger, honey",
       "price": 300000,
       "active": true
@@ -733,6 +625,42 @@
       "id": 84,
       "categoryId": "2",
       "destination": "New",
+      "destinationImg": "",
+      "duration": "",
+      "price": 0,
+      "active": false
+    },
+    {
+      "id": 85,
+      "categoryId": "new2",
+      "destination": "",
+      "destinationImg": "",
+      "duration": "",
+      "price": 0,
+      "active": false
+    },
+    {
+      "id": 86,
+      "categoryId": 0,
+      "destination": "new 2",
+      "destinationImg": "",
+      "duration": "",
+      "price": 0,
+      "active": false
+    },
+    {
+      "id": 87,
+      "categoryId": 0,
+      "destination": "new3",
+      "destinationImg": "",
+      "duration": "",
+      "price": 0,
+      "active": false
+    },
+    {
+      "id": 88,
+      "categoryId": 0,
+      "destination": "new4",
       "destinationImg": "",
       "duration": "",
       "price": 0,

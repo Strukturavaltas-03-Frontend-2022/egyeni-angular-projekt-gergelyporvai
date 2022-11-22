@@ -23,7 +23,7 @@ export class DataEditorComponent implements OnInit {
   onUpdate(trip: Trip): void {
     this.tripService
       .update(trip)
-      .subscribe((product) => this.router.navigate(['/', 'admin']));
+      .subscribe((product) => this.router.navigate(['/', 'trips']));
   }
 
   ngOnInit(): void {}

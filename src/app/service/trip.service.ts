@@ -11,13 +11,13 @@ import { isNgTemplate } from '@angular/compiler';
 export class TripService {
   apiUrl: string = 'http://localhost:3000/trips';
 
-  // getAll(page: string = ''): Observable<Trip[]> {
-  //   return this.http.get<Trip[]>(`${this.apiUrl}${page}`);
-  // }
-
   getAll(page: string = ''): Observable<Trip[]> {
-    return this.http.get<Trip[]>(`${this.apiUrl}`);
+    return this.http.get<Trip[]>(`${this.apiUrl}${page}`);
   }
+
+  // getAll(page: string = ''): Observable<Trip[]> {
+  //   return this.http.get<Trip[]>(`${this.apiUrl}`);
+  // }
 
   get(id: number): Observable<Trip> {
     return this.http.get<Trip>(`${this.apiUrl}/${id}`);

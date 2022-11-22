@@ -25,7 +25,9 @@ Az adatbázist a 'json-server --watch json/trips.json' parancs kiadásával lehe
 
 ## ToDo:
 
-Aria
+Admin töröl, Aria
+
+## -------------------------------------------------------------
 
 # TravelAgency
 
